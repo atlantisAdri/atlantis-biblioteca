@@ -2,4 +2,6 @@
 {"dg-publish":true,"permalink":"/ATLANTIS/atlantisBiblioteca/","tags":["gardenEntry"]}
 ---
 
-![[atlantisBiblioteca.canvas|atlantisBiblioteca]]
+¿Qué quieres aprender?
+
+## [[ATLANTIS/Biblioteca de Docencia\|Biblioteca de Docencia]]
