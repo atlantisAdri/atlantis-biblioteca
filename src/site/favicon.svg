@@ -1,24 +1,44 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <rect x="37.0753" y="36.0532" width="26.8836" height="18.1139" fill="#FFFFFF"/>
-    <polygon fill="#EA5A47" stroke="#EA5A47" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50.2353,23.2 38.1,36 63.5,36"/>
-    <path fill="#EA5A47" d="M47.3,26l-6.4,6.0595v-8.5733c0-0.9313,0.7549-1.4162,1.6862-1.4162h3.0276 c0.9313,0,1.6862,0.4849,1.6862,1.4162C47.3,23.4862,47.3,26,47.3,26z"/>
-    <rect x="43" y="42" width="6" height="12" fill="#A57939"/>
-    <rect x="54" y="42" width="6" height="5" fill="#92D3F5"/>
-    <path fill="#B1CC33" d="M41.0059,28.3393c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662 c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043 C7.9656,28.6665,6,30.8102,6,33.3136c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207 c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="35.4816pt" height="35.4816pt" viewBox="0 0 35.4816 35.4816" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2024-08-04T10:36:40.225237</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.6.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 35.4816 
+L 35.4816 35.4816 
+L 35.4816 0 
+L 0 0 
+L 0 35.4816 
+z
+" style="fill: none"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,27 50.2353,23 64,35.0976 64,54 38,54 38,41.5482"/>
-    <rect x="43" y="42" width="6" height="12" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="54" y="42" width="6" height="5" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="43.5,23 46.5,23 46.5,26"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M31.245,39.3396"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22.5,54 22.5,46.8269 17.5,42"/>
-    <line x1="23.0408" x2="25.885" y1="46.7265" y2="43.7657" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M41.0059,28.3393 c0-3.3123-3.4447-6.0025-7.6937-6.0025c-0.3549,0.0029-0.7095,0.025-1.0622,0.0662c-1.7995-3.4553-5.7065-5.8554-10.2499-5.8554 c-6.2478,0-11.3122,4.5286-11.3122,10.1144c0.0012,0.3692,0.0247,0.738,0.0704,1.1043C7.9656,28.6665,6,30.8102,6,33.3136 c0,3.3123,3.4446,6.0025,7.6936,6.0025c1.6151,0.0139,3.2056-0.4022,4.6137-1.207c1.8177,1.4766,4.7264,2.4385,8.0154,2.4385 c5.5105,0,9.9776-2.6875,9.9776-6.0025c-0.0009-0.2191-0.0214-0.4377-0.0612-0.6531 C39.0357,32.9904,41.0059,30.8453,41.0059,28.3393z"/>
-    <line x1="63.5" x2="42.5" y1="36" y2="36" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+  <g id="axes_1">
+   <g clip-path="url(#p1304fa7b82)">
+    <image xlink:href="data:image/png;base64,
+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" id="image2a79eefff6" transform="scale(1 -1) translate(0 -35.64)" x="0" y="0.1584" width="35.64" height="35.64"/>
+   </g>
   </g>
+ </g>
+ <defs>
+  <clipPath id="p1304fa7b82">
+   <rect x="0" y="-0" width="35.4816" height="35.4816"/>
+  </clipPath>
+ </defs>
 </svg>
