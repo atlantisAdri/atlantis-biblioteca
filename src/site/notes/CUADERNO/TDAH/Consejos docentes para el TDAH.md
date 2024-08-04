@@ -1,0 +1,25 @@
+---
+{"dg-publish":true,"permalink":"/CUADERNO/TDAH/Consejos docentes para el TDAH/"}
+---
+
+- Las conductas empeoran con el estrés. Se debe cuidar el entorno del individuo.
+- Se puede optimizar el aula:
+	- Usar recursos adaptados:
+		- Colocar a los alumnos cerca del [[CUADERNO/DOCENCIA/GESTIÓN DE CENTROS EDUCATIVOS/Equipo docente\|docente]] y la pizarra.
+		- Usar rodillos para los pies.
+		- Juguetes silenciosos para las manos.
+	- Fomentar el conocimiento de las [[CUADERNO/TDAH/Características del trastorno\|Características del trastorno]] por parte del resto de personas presentes.
+- Realizar [[Adaptación metodológica\|adaptaciones metodológicas]] para facilitar el [[CUADERNO/PSICOLOGÍA/PEDAGOGÍA/Proceso de enseñanza-aprendizaje\|Proceso de enseñanza-aprendizaje]]:
+	- Tareas individualizadas, flexibles y fragmentadas en pequeñas partes.
+	- Usar varios recursos para las explicaciones (pizarra, libros, [[Podcast\|Podcast]], [[Flipped classroom\|Flipped classroom]]...).
+	- Adaptar la [[CUADERNO/DOCENCIA/LABOR DOCENTE/Evaluación\|Evaluación]] haciéndola oral al principio, darle más tiempo...
+	- Supervisar con frecuencia, sobre todo al principio.
+	- Programar descansos para que el alumno no se agote.
+- Adaptar el protocolo de convivencia y [[Castigo\|castigos]] del [[CUADERNO/DOCENCIA/GESTIÓN DE CENTROS EDUCATIVOS/Plan de Convivencia del centro educativo (PC)\|Plan de Convivencia del centro educativo (PC)]].
+- Coordinarse con especialistas.
+- Fomentar la inclusión en clase:
+	- Reducir su comportamiento [[Impulsiviadi\|impulsivo]] con charlas tranquilas al final.
+	- Evitar las comparaciones y los favoritismos.
+	- No ser ni permisivos ni severos.
+- Mejorar la coordinación con la [[CUADERNO/SOCIOLOGÍA/GRUPOS SOCIALES/Familia\|Familia]].
+- Fomentar la organización y el entrenamiento.
