@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/CUADERNO/PSICOLOGÍA/ADICCIONES/Adicción a la tecnología/"}
 ---
 
-Implica una dependencia de las [[CUADERNO/CONOCIMIENTO COMPARTIDO/Tecnologías de la Información y la Comunicación (TIC)\|Tecnologías de la Información y la Comunicación (TIC)]].
+Implica una dependencia de las [[CUADERNO/DOCENCIA/Tecnologías de la Información y la Comunicación (TIC)\|Tecnologías de la Información y la Comunicación (TIC)]].
 
 Afecta especialmente a la [[CUADERNO/PSICOLOGÍA/DESARROLLO DE LA PERSONALIDAD/Adolescencia\|Adolescencia]].
 

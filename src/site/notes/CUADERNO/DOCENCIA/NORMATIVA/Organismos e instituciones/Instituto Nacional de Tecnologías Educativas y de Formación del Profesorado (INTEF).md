@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/CUADERNO/DOCENCIA/NORMATIVA/Organismos e instituciones/Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado (INTEF)/"}
 ---
 
-El [INTEF]([Home - INTEF](https://intef.es/)) depende del Ministerio de Educación. Se encarga de las [[CUADERNO/CONOCIMIENTO COMPARTIDO/Tecnologías de la Información y la Comunicación (TIC)\|Tecnologías de la Información y la Comunicación (TIC)]] y la formación del profesorado no universitario.
+El [INTEF]([Home - INTEF](https://intef.es/)) depende del Ministerio de Educación. Se encarga de las [[CUADERNO/DOCENCIA/Tecnologías de la Información y la Comunicación (TIC)\|Tecnologías de la Información y la Comunicación (TIC)]] y la formación del profesorado no universitario.
 
 Ha desarrollado el [Plan de Cultura Digital en la Escuela]([Plan de Cultura Digital en la Escuela - INTEF](https://intef.es/Noticias/plan-de-cultura-digital-en-la-escuela/)). Como parte de él, crearon el [Espacio Procomún]([Inicio | procomun (intef.es)](https://procomun.intef.es/)) que ofrece:
 - Recursos educativos con licencia abierta

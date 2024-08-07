@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/CUADERNO/DOCENCIA/LABOR DOCENTE/Educación 2.0/"}
 ---
 
-Es la utilización de la [[CUADERNO/CONOCIMIENTO COMPARTIDO/Web 2.0\|Web 2.0]] en la docencia. Implica una nueva metodología para el [[CUADERNO/PSICOLOGÍA/PEDAGOGÍA/Proceso de enseñanza-aprendizaje\|Proceso de enseñanza-aprendizaje]] y formación de los docentes para **convertir la información en conocimiento**.
+Es la utilización de la [[CUADERNO/DOCENCIA/Web 2.0\|Web 2.0]] en la docencia. Implica una nueva metodología para el [[CUADERNO/PSICOLOGÍA/PEDAGOGÍA/Proceso de enseñanza-aprendizaje\|Proceso de enseñanza-aprendizaje]] y formación de los docentes para **convertir la información en conocimiento**.
 
 # Ventajas de la Escuela 2.0
 - Eficiencia del aprendizaje
